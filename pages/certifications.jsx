@@ -1,8 +1,8 @@
-import { getCertifications } from './data/certifications.js';
 import CertificationCard from '../components/CertificationCard.jsx';
 import styles from '../styles/CertificationsPage.module.css';
+import certifications from './data/certifications.json';
 
-const Certifications = ({ certifications }) => {
+const Certifications = () => {
   return (
     <>
       <div className={styles.user}>
@@ -18,13 +18,5 @@ const Certifications = ({ certifications }) => {
     </>
   );
 };
-
-export async function getStaticProps() {
-  const certifications = getCertifications();
-
-  return {
-    props: { title: 'Certifications', certifications }
-  };
-}
 
 export default Certifications;

@@ -1,8 +1,8 @@
 import ExperienceCard from '../components/ExperienceCard';
-import { getExperiences } from './data/experiences';
 import styles from '../styles/ExperiencesPage.module.css';
+import experiences from './data/experiences.json';
 
-const ExperiencePage = ({ experiences }) => {
+const ExperiencePage = () => {
   return (
     <>
       <h3>
@@ -24,13 +24,5 @@ const ExperiencePage = ({ experiences }) => {
     </>
   );
 };
-
-export async function getStaticProps() {
-  const experiences = getExperiences();
-
-  return {
-    props: { title: 'Experiences', experiences },
-  };
-}
 
 export default ExperiencePage;

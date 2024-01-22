@@ -1,8 +1,8 @@
 import ProjectCard from '../components/ProjectCard';
-import { getProjects } from './data/projects';
 import styles from '../styles/ProjectsPage.module.css';
+import projects from './data/projects.json';
 
-const ProjectsPage = ({ projects }) => {
+const ProjectsPage = () => {
   return (
     <>
       <h3>My Projects</h3>
@@ -14,13 +14,5 @@ const ProjectsPage = ({ projects }) => {
     </>
   );
 };
-
-export async function getStaticProps() {
-  const projects = getProjects();
-
-  return {
-    props: { title: 'Projects', projects },
-  };
-}
 
 export default ProjectsPage;
