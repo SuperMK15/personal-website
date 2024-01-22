@@ -23,7 +23,7 @@ const TerminalPage = () => {
                     <div className={styles.centerText}>
                         <div className={styles.textContainer}>
                             <h1 className={styles.comingSoon}>
-                                Terminal Module Coming Soon
+                                Terminal Coming Soon!
                             </h1>
                             <a href="./" className={styles.linkBack}>
                                 Go back to Home
