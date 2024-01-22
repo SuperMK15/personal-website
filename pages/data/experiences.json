@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "3Cycle Automations Engineer",
+        "date": "NOVEMBER 2023 - PRESENT",
+        "description": "Work on embedded systems for automation of shredding and filament processing to develop a sustainable circular ecosystem for 3D printing waste recycling."
+    },
+    {
+        "id": 2,
+        "title": "UWARG Embedded Flight Software Team Member",
+        "date": "SEPTEMBER 2023 - PRESENT",
+        "description": "Member of the embedded flight software (EFS) team in the University of Waterloo Aerial Robotics Group. Been working on the firmware for the flight controller of the aerial vehicle."
+    },
+    {
+        "id": 3,
+        "title": "UW CSC Events Coordinator",
+        "date": "SEPTEMBER 2023 - PRESENT",
+        "description": "Plan and execute large-scale events that benefit students interested in CS, ranging from social events to fun competitions to professional networking."
+    },
+    {
+        "id": 4,
+        "title": "Familiarization Pilot & Flight Theory Instructor",
+        "date": "SEPTEMBER 2022 - PRESENT",
+        "description": "Volunteer as a famil pilot on a weekly basis at a designated CFS (Cadet Flying Site) in Wingham. Also teach as a flight theory instructor at 540 Sqn on a weekly basis."
+    },
+    {
+        "id": 5,
+        "title": "OCMC Technology Executive",
+        "date": "MAY 2023 - PRESENT",
+        "description": "Work on the technology team in the Ontario Competitive Mathematics Committee as a full stack developer to create and maintain the OCMC website, as well as perform other technology-related tasks."
+    },
+    {
+        "id": 6,
+        "title": "Administration Warrant Officer",
+        "date": "SEPTEMBER 2022 - AUGUST 2023",
+        "description": "Manage the administration of the 540 Golden Hawks squadron for over 250 cadets, through developing an automated system to track attendance, relevant training, and more using Google Sheets and Google Apps Script."
+    },
+    {
+        "id": 7,
+        "title": "White Oaks CS Club President",
+        "date": "SEPTEMBER 2021 - JUNE 2023",
+        "description": "Led the White Oaks CS Club to organize events and workshops for students interested in computer science, as well as to prepare them to compete in various competitions including the CCC, USACO AND ECOO."
+    },
+    {
+        "id": 8,
+        "title": "HDSB Hacks Co-Founder & Co-President",
+        "date": "OCTOBER 2022 - MARCH    2023",
+        "description": "Co-founded HDSB Hacks, a student-led organization that ran the first hackathon across the Halton District School Board, with official backing. Over 250 participants attended the event, and over 50 final projects were submitted."
+    },
+    {
+        "id": 9,
+        "title": "White Oaks DECA Finance Trainer",
+        "date": "SEPTEMBER 2021 - JUNE 2023",
+        "description": "Trained students in the finance cluster for DECA competitions, and helped them prepare for the DECA regional, provincial and international levels of competition."
+    }
+]

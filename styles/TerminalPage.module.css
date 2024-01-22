@@ -1,0 +1,67 @@
+/* TerminalPage.module.css */
+
+.container {
+  min-height: 100vh;
+  position: relative;
+}
+
+.matrixContainer {
+  position: absolute;
+  inset: 0;
+}
+
+.terminalOverlay,
+.bootUpOverlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000;
+}
+
+.bootUpMessage,
+.terminalBox {
+  color: #00ff00;
+  text-align: center;
+  z-index: 1; /* Ensure the text and box are on top of the matrix effect */
+}
+
+.bootUpMessage {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.terminalBox {
+  width: 70%; /* Set the width of the terminal box */
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.centerText {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  z-index: 1;
+}
+
+.textContainer {
+  background-color: #000;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.comingSoon {
+  color: #00ff00;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.linkBack {
+  color: #00ff00;
+  text-decoration: underline;
+  font-size: 1rem;
+}

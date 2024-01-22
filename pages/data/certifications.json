@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Deep Learning Foundations",
+        "credential_link": "https://www.linkedin.com/learning/certificates/10ceccb4c5afb9b6ad180880b96c671dd16d1d33d57b84f1f840b723676daace"
+    },
+    {
+        "id": 2,
+        "name": "Neural Networks Foundations",
+        "credential_link": "https://www.linkedin.com/learning/certificates/02278e8106e8ce39f7090828cd6feab8e551b7b08731d3010f831ff4bf3a8d9e"
+    },
+    {
+        "id": 3,
+        "name": "Convolutional Neural Networks (CNNs)",
+        "credential_link": "https://www.linkedin.com/learning/certificates/c66ee2bb2af0b7a21dd6e92bb2e5249b31b3136b09f8602ea144604fd8721e7d"
+    },
+    {
+        "id": 4,
+        "name": "Recurrent Neural Networks (RNNs)",
+        "credential_link": "https://www.linkedin.com/learning/certificates/23ccf2c96f248c31189225198b900af2eb90e13b6a31b128e5b545aa448d7924"
+    },
+    {
+        "id": 5,
+        "name": "Arduino: Foundations",
+        "credential_link": "https://www.linkedin.com/learning/certificates/bae11d99ea2b0811009faf3db0f9b44fd3b4f110e0383a159e818160fdc0c5e5"
+    },
+    {
+        "id": 6,
+        "name": "Arduino: Interfacing with Hardware",
+        "credential_link": "https://www.linkedin.com/learning/certificates/7a98d6e0967efc372360df20acd98b522088142b4fa2f1aa81232bc64f82f63d"
+    },
+    {
+        "id": 7,
+        "name": "Arduino: Interfacing with Analog Devices",
+        "credential_link": "https://www.linkedin.com/learning/certificates/a626825db797680be1f3876ac7afb30bc8651287767cc93f66775addb71cfb01"
+    },
+    {
+        "id": 8,
+        "name": "Arduino: Pulse Width Modulation",
+        "credential_link": "https://www.linkedin.com/learning/certificates/7f07497da6864f04729d8f9af8535933bf0e818b017ff16c308a3a573b865e7d"
+    },
+    {
+        "id": 9,
+        "name": "C Programming for Embedded Applications",
+        "credential_link": "https://www.linkedin.com/learning/certificates/f019272db9d8af8d4217cc35e1785746fd88a9928b28ba6f8f116f7e9b1779fa"
+    }
+]

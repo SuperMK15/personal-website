@@ -1,0 +1,61 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: var(--experience-bg);
+  border-radius: 5px;
+  padding: 1rem;
+}
+
+.card:hover {
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+.card p {
+  margin-bottom: 1.25rem;
+}
+
+.title {
+  color: var(--accent-color);
+  margin-bottom: 1rem;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-between;
+}
+
+.stats div {
+  display: flex;
+  align-items: center;
+  margin-right: 0.75rem;
+}
+
+.stats > div:nth-child(2) {
+  margin-right: 0;
+}
+
+.icon {
+  color: var(--accent-color);
+  margin-right: 0.3rem;
+}
+
+.credential_button button {
+  background: linear-gradient(90deg, hsl(205, 70%, 60%) 0%, hsl(300, 100%, 70%) 100%);
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  font: inherit;
+  font-size: small;
+}
+
+.credential_button button:hover {
+  transform: scale(1.05);
+}
+
+.credential_button button:active {
+  transform: scale(0.95);
+}
