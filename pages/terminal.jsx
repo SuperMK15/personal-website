@@ -38,4 +38,10 @@ const TerminalPage = () => {
     );
 };
 
+export async function getStaticProps() {
+    return {
+        props: { title: 'Terminal' },
+    };
+}
+
 export default TerminalPage;

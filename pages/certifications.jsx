@@ -19,4 +19,10 @@ const Certifications = () => {
   );
 };
 
+export async function getStaticProps() {
+  return {
+    props: { title: 'Certifications' },
+  };
+}
+
 export default Certifications;

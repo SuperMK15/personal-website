@@ -25,4 +25,10 @@ const ExperiencePage = () => {
   );
 };
 
+export async function getStaticProps() {
+  return {
+    props: { title: 'Experiences' },
+  };
+}
+
 export default ExperiencePage;

@@ -15,4 +15,10 @@ const ProjectsPage = () => {
   );
 };
 
+export async function getStaticProps() {
+  return {
+    props: { title: 'Projects' },
+  };
+}
+
 export default ProjectsPage;
