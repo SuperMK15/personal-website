@@ -9,7 +9,7 @@ const TerminalPage = () => {
         const bootUp = () => {
             setTimeout(() => {
                 setBooted(true);
-            }, 2000);
+            }, 1800);
         };
 
         bootUp();
@@ -17,22 +17,26 @@ const TerminalPage = () => {
 
     return (
         <div className={booted ? styles.terminalOverlay : styles.bootUpOverlay}>
+            <MatrixRainingCode className={styles.matrixContainer} />
             {booted ? (
-                <>
-                    <MatrixRainingCode className={styles.matrixContainer} />
-                    <div className={styles.centerText}>
-                        <div className={styles.textContainer}>
-                            <h1 className={styles.comingSoon}>
-                                Terminal Coming Soon!
-                            </h1>
-                            <a href="./" className={styles.linkBack}>
-                                Go back to Home
-                            </a>
-                        </div>
+                <div className={styles.centerText}>
+                    <div className={styles.textContainer}>
+                        <h1 className={styles.textMessage}>
+                            Terminal Coming Soon!
+                        </h1>
+                        <a href="./" className={styles.linkBack}>
+                            Go back to Home
+                        </a>
                     </div>
-                </>
+                </div>
             ) : (
-                <h1 className={styles.bootUpMessage}>Booting up...</h1>
+                <div className={styles.centerText}>
+                    <div className={styles.textContainer}>
+                        <h1 className={styles.textMessage}>
+                            Booting Up...
+                        </h1>
+                    </div>
+                </div>
             )}
         </div>
     );
