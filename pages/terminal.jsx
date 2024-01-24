@@ -3,6 +3,10 @@ import { TerminalContextProvider, ReactTerminal } from "react-terminal";
 import MatrixRainingCode from '../components/MatrixRainingEffect';
 import styles from '../styles/TerminalPage.module.css';
 
+import projects from './data/projects.json';
+import experiences from './data/experiences.json';
+import certifications from './data/certifications.json';
+
 const TerminalPage = () => {
     const [booted, setBooted] = useState(false);
     const [username, setUsername] = useState("");
@@ -37,7 +41,12 @@ const TerminalPage = () => {
 
         exit: () => {
             window.location.href = "/";
-            return "Exiting terminal...";
+            return (
+                <>
+                    Exiting terminal...
+                    <br />
+                </>
+            );
         },
 
         help: () => (
