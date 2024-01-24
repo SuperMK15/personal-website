@@ -71,10 +71,12 @@
   z-index: 1;
   width: 80%;
   height: 70%;
+  overflow: hidden;
 }
 
 .cmdContainer {
   align-items: center;
   justify-content: center;
   height: 100%;
+  overflow: hidden;
 }

@@ -81,6 +81,8 @@ const TerminalPage = () => {
                                 prompt={username + "$"}
                                 welcomeMessage={<>Welcome to the terminal! Type 'help' see a list of commands.<br /></>}
                                 showControlButtons={false}
+                                showControlBar={false}
+                                style={{ overflow: "hidden" }}
                             />
                         </div>
                     </div>
