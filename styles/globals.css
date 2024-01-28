@@ -57,17 +57,17 @@
   background: rgba(67, 153, 52, 0.25);
 }
 
-.mongodb, .mysql {
+.mongodb, .mysql, .kintone {
   border: 0.1rem solid rgb(50, 205, 50);
 }
-.mongodb:hover, .mysql:hover {
+.mongodb:hover, .mysql:hover, .kintone:hover {
   background: rgba(50, 205, 50, 0.25);
 }
 
-.redux {
+.redux, .Auth0 {
   border: 0.1rem solid rgb(118, 74, 188);
 }
-.redux:hover {
+.redux:hover, .Auth0:hover {
   background: rgba(118, 74, 188, 0.25);
 }
 

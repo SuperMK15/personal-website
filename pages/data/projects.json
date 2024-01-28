@@ -33,6 +33,15 @@
     "demo": "https://studai-8en7.onrender.com/"
   },
   {
+    "id": 12,
+    "name": "WorkSheeps - AI Powered Markbook",
+    "image": "/worksheeps.png",
+    "description": "An AI-based markbook for teachers to track student performance across different test subject areas. The tool uses a combination of NLP and data visualization to generate personalised worksheets for students targetting weak areas.",
+    "tags": ["react", "node", "kintone", "tailwind", "Auth0", "cohere"],
+    "source_code": "https://github.com/SuperMK15/WorkSheeps/",
+    "demo": "https://worksheeps.tech/"
+  },
+  {
     "id": 5,
     "name": "Arduino Projects",
     "image": "/arduino.png",
