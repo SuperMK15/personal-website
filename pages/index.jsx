@@ -15,8 +15,8 @@ export default function HomePage() {
           <Link href="/terminal">
             <button className={styles.button}>Open Terminal</button>
           </Link>
-          <Link href="/contact">
-            <button className={styles.outlined}>Contact Me</button>
+          <Link href="/about">
+            <button className={styles.outlined}>About Me</button>
           </Link>
         </div>
         <GearComponent className={styles.illustration} />
