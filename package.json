@@ -18,6 +18,7 @@
     "react-github-calendar": "^3.2.2",
     "react-remove-scroll-bar": "^2.3.4",
     "react-router-dom": "^6.21.3",
+    "react-spinners": "^0.13.8",
     "react-terminal": "^1.4.4",
     "three": "^0.160.0"
   }

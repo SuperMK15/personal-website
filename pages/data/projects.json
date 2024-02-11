@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "OCMC Participant Portal Application",
+    "terminal_name": "ocmc-portal",
     "image": "/ocmc.png",
     "description": "MERN-stack web app made for the Ontario Competitive Mathematics Committee, which administers math contests primarily across Ontario. Allows their 300+ participants to view news, register for contests and track their scores.",
     "tags": ["next", "node", "express", "mongodb", "tailwind", "redux"],
@@ -10,6 +11,7 @@
   {
     "id": 2,
     "name": "Using ANNs to Measure Photometric Redshifts",
+    "terminal_name": "photoz_ann",
     "image": "/photoredshift.png",
     "description": "A research paper focusing on the creation and application of a neural network in redshift estimation using photometric computational methods.",
     "tags": ["python", "keras", "tensorflow", "pandas", "numpy"],
@@ -18,6 +20,7 @@
   {
     "id": 3,
     "name": "Analysis of Cost Functions for ANNs",
+    "terminal_name": "costfuncs_ann",
     "image": "/costfuncs.png",
     "description": "A research paper examining the comparative performance of two different cost functions, using the MNIST dataset. Neural network written from scratch using only NumPy and Pandas.",
     "tags": ["python", "pandas", "numpy", "latex"],
@@ -26,6 +29,7 @@
   {
     "id": 4,
     "name": "Stud.AI - AI Powered Study Tool",
+    "terminal_name": "studai",
     "image": "/studai.png",
     "description": "An AI based study tool that uses a combination of NLP and image processing to generate a set of practice questions from student-provided notes, for students to test their knowledge.",
     "tags": ["react", "node", "mongodb", "tailwind", "redux", "cohere"],
@@ -35,6 +39,7 @@
   {
     "id": 12,
     "name": "WorkSheeps - AI Powered Markbook",
+    "terminal_name": "worksheeps",
     "image": "/worksheeps.png",
     "description": "An AI-based markbook for teachers to track student performance across different test subject areas. The tool uses a combination of NLP and data visualization to generate personalised worksheets for students targetting weak areas.",
     "tags": ["react", "node", "kintone", "tailwind", "Auth0", "cohere"],
@@ -44,6 +49,7 @@
   {
     "id": 5,
     "name": "Arduino Projects",
+    "terminal_name": "arduino-projects",
     "image": "/arduino.png",
     "description": "A github repository containing a collection of my Arduino projects including interfacing to a variety of analog and digital sensors, and several output devices.",
     "tags": ["arduino", "cpp"],
@@ -52,6 +58,7 @@
   {
     "id": 6,
     "name": "SFML 2D Legend of Zelda Style Game",
+    "terminal_name": "loz-game",
     "image": "/loz.png",
     "description": "A 2D game made using C++ and SFML in an object-oriented fashion, inspired by the Legend of Zelda series. Features 4 levels, complete with music and sound effects.",
     "tags": ["sfml", "cpp"],
@@ -60,6 +67,7 @@
   {
     "id": 7,
     "name": "Aviation Weather App",
+    "terminal_name": "aviation-weather",
     "image": "/avia.png",
     "description": "A web application made with ReactJS used to check aviation weather that can fetch and decode METAR reports. Made while training for my PPL at 3 Canadian Forces Flying Training School in Portage la Prairie, Manitoba, Canada.",
     "tags": ["react", "css", "checkwx"],
@@ -69,6 +77,7 @@
   {
     "id": 8,
     "name": "UWaterloo CSC Trivia Night Application",
+    "terminal_name": "csc-trivia",
     "image": "/csc-trivia.png",
     "description": "A web application used to host UWaterloo's Computer Science Club's Trivia Nights. Pulls questions from a JSON file and displays them in a convenient format for the event.",
     "tags": ["react", "css", "json"],
@@ -78,6 +87,7 @@
   {
     "id": 9,
     "name": "Canada Chess Parent & Teacher Portal",
+    "terminal_name": "chess-portal",
     "image": "/canadachess.png",
     "description": "A MERN-stack web application made for Canada Chess Youth Club, a nationwide organization that teaches the art of chess. Allows parents and teachers to assess student potential, register for classes and track their students' progress.",
     "tags": ["react", "node", "express", "mongodb", "css", "redux", "aws"],
@@ -86,6 +96,7 @@
   {
     "id": 10,
     "name": "Food4Kids Inventory Management System",
+    "terminal_name": "food4kids",
     "image": "/food4kids.png",
     "description": "A LAMP-stack web application made for Food4Kids, a non-profit organization that provides food to children in need. Allows volunteers to manage inventory, track expiry dates and generate weekly reports.",
     "tags": ["php", "css", "mysql", "xampp"],
@@ -94,6 +105,7 @@
   {
     "id": 11,
     "name": "IB Results Checker",
+    "terminal_name": "ib-results",
     "image": "/selenium.png",
     "description": "This project provides an automation script written in Selenium that automatically logs users into the IBO (International Baccalaureate Organization) candidate portal and navigate to the results page, to check their IB results as soon as they are released.",
     "tags": ["python", "selenium"],
