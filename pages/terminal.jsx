@@ -16,7 +16,7 @@ const TerminalPage = () => {
     let directories = {
         "/home": ["about.txt", "projects/", "contact/", "experiences/", "certifications/"], // root directory
         "/projects": [...projects.map(project => project.terminal_name + "/")],
-        "/contact": ["email.txt", "linkedin.txt", "github.txt"],
+        "/contact": ["email.exe", "linkedin.exe", "github.exe"],
         "/experiences": [...experiences.map(experience => experience.terminal_name + "/")],
         "/certifications": [...certifications.map(certification => certification.terminal_name + "/")],
     };
@@ -88,17 +88,6 @@ const TerminalPage = () => {
                 <p>----------------------------------------------------------------------------------------</p>
             </>
         ),
-
-        "download-resume": () => {
-            const link = document.createElement("a");
-            link.href = "https://drive.google.com/uc?export=download&id=1h6b5aXJrZPdmlCJf2oF9NuVBUucAVotR";
-            link.setAttribute("download", "Manasva_Katyal_Resume.pdf");
-            link.style.display = "none"; // Hide the link
-            document.body.appendChild(link);
-            link.click();
-            document.body.removeChild(link); // Remove the link from the document after download starts
-            return "Downloading resume...";
-        },
 
         cd: (arg) => {
             if (!arg || arg === "~") {
@@ -173,12 +162,12 @@ const TerminalPage = () => {
                         <br />
                     </>
                 );
-            } else if (file === "email.txt") {
-                return <p>manasva.katyal@gmail.com</p>
-            } else if (file === "linkedin.txt") {
-                return <p>https://www.linkedin.com/in/manasva-katyal/</p>
-            } else if (file === "github.txt") {
-                return <p>https://github.com/SuperMK15/</p>
+            } else if (file === "email.exe") {
+                return <p>mailto: manasva.katyal@gmail.com</p>
+            } else if (file === "linkedin.exe") {
+                return <p>goto: https://www.linkedin.com/in/manasva-katyal/</p>
+            } else if (file === "github.exe") {
+                return <p>goto: https://github.com/SuperMK15/</p>
             } else if (file === "name.txt") {
                 const ret = projects.find(project => "/projects/" + project.terminal_name === currentDirectory);
                 if (ret?.name) return <p>{ret.name}</p>;
@@ -226,7 +215,7 @@ const TerminalPage = () => {
         },
 
         exec: (file) => {
-            const ret_val = <p>Running executable...</p>
+            const ret_val = <p>{`Running executable ${file}...`}</p>
 
             if (file === "project_github.exe") {
                 const ret = projects.find(project => "/projects/" + project.terminal_name === currentDirectory);
@@ -252,6 +241,15 @@ const TerminalPage = () => {
                     window.open(ret.credential_link, "_blank");
                     return ret_val;
                 }
+            } else if (file === "email.exe") {
+                window.open("mailto: manasva.katyal@gmail.com", "_blank");
+                return ret_val;
+            } else if (file === "linkedin.exe") {
+                window.open("https://www.linkedin.com/in/manasva-katyal/", "_blank");
+                return ret_val;
+            } else if (file === "github.exe") {
+                window.open("https://github.com/SuperMK15/", "_blank");
+                return ret_val;
             }
             
             return <p>{`File ${file} not found or is not a .exec file.`}</p>;
