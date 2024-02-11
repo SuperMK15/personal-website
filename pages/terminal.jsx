@@ -77,10 +77,10 @@ const TerminalPage = () => {
                 <ul>
                     -- ls: Lists all files and directories in the current directory. <br />
                     -- cd [directory]: Changes the current directory to the specified [directory]. <br />
-                    -- pwd: Displays the current directory. <br />
+                    -- pwd: Prints the current working directory. <br />
                     -- cat [file]: Displays the contents of the specified [file]. <br />
                     -- exec [file]: Executes the specified [file]. Must be a .exe file to do so. <br />
-                    -- user [username]: allows you to specify a [username] to be displayed in the terminal prompt. <br />
+                    -- user [username]: Allows you to specify a [username] to be displayed in the terminal prompt. <br />
                     -- clear: Clears the terminal. <br />
                     -- exit: Exits the terminal and returns to the home page. <br />
                     -- help: Displays this help message. <br />
