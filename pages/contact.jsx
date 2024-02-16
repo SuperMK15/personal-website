@@ -74,7 +74,7 @@ const ContactPage = () => {
         <form className={styles.form} onSubmit={submitForm}>
           <div className={styles.flex}>
             <div>
-              <label htmlFor="name">Name</label>
+              <label htmlFor="name">Your Name</label>
               <input
                 type="text"
                 name="name"
@@ -85,7 +85,7 @@ const ContactPage = () => {
               />
             </div>
             <div>
-              <label htmlFor="email">Email</label>
+              <label htmlFor="email">Your Email</label>
               <input
                 type="email"
                 name="email"
