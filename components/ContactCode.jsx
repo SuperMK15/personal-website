@@ -3,8 +3,8 @@ import styles from '../styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'manasvakatyal.vercel.app',
-    href: 'https://manasvakatyal.vercel.app/',
+    link: 'manasvakatyal.tech',
+    href: 'https://manasvakatyal.tech/',
   },
   {
     social: 'email',

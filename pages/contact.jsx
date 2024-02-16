@@ -11,7 +11,7 @@ const images = [
 ];
 
 const hrefs = [
-  'https://manasvakatyal.vercel.app',
+  'https://manasvakatyal.tech/',
   'mailto:manasva.katyal@gmail.com',
   'https://github.com/SuperMK15',
   'https://www.linkedin.com/in/manasva-katyal/',
