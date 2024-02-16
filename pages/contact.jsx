@@ -37,8 +37,6 @@ const ContactPage = () => {
         message: message
       }, process.env.NEXT_PUBLIC_EMAIL_KEY);
 
-    console.log(res);
-
     if (res.status === 200) {
       alert('Your message has been sent! I will get back to you as soon as possible.');
       setName('');
