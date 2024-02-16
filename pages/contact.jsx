@@ -44,7 +44,7 @@ const ContactPage = () => {
       setSubject('');
       setMessage('');
     } else {
-      alert('There was an error. Please try again in a while.');
+      alert('There was an error. Please try again later, or send me a message by clicking on the email below. Thank you!');
     }
   };
 
