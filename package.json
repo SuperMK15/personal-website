@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.1.0",
     "@notionhq/client": "^0.2.2",
     "@react-three/fiber": "^8.15.14",
     "@vercel/analytics": "^1.1.2",
