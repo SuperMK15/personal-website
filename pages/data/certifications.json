@@ -1,5 +1,11 @@
 [
     {
+        "id": 10,
+        "name": "Docker",
+        "terminal_name": "docker",
+        "credential_link": "https://www.linkedin.com/learning/certificates/e24bb5d6d1902c8ce7a4109c83780d69399667e1b6c1b0a309b2edadab1e4edb"
+    },
+    {
         "id": 1,
         "name": "Deep Learning Foundations",
         "terminal_name": "deep_learning",
