@@ -1,5 +1,11 @@
 [
     {
+        "id": 11,
+        "name": "Kubernetes",
+        "terminal_name": "kubernetes",
+        "credential_link": "https://www.linkedin.com/learning/certificates/6cd901c88eb3112a5021944bb575f1a24cd21346f6acc47981b166c5640a2057"
+    },
+    {
         "id": 10,
         "name": "Docker",
         "terminal_name": "docker",
