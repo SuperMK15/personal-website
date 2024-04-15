@@ -22,9 +22,12 @@ const AboutPage = () => {
 
   return (
     <>
-      <h3>
+      <h4>
+        <div style={{ textAlign: 'center' }}>
+          <img src="/manasva_banner.jpg" alt="Manasva" style={{ width: '95%', borderRadius: '10px', marginBottom: '1.5rem', border: '2px solid var(--accent-color)' }} />
+        </div>
         <div dangerouslySetInnerHTML={{ __html: text }} />
-      </h3>
+      </h4>
     </>
   );
 };

@@ -201,7 +201,7 @@
     font-size: 2rem;
   }
   .bio {
-    font-size: 1.25rem;
+    font-size: 0.85rem;
     margin-bottom: 2rem;
   }
   .button {
@@ -211,6 +211,8 @@
     font-size: 1rem;
   }
   .illustration {
-    display: none;
+    width: 75%;
+    height: 75%;
+    position: relative;
   }
 }
