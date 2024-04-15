@@ -19,7 +19,7 @@ export default function HomePage() {
             <button className={styles.outlined}>About Me</button>
           </Link>
         </div>
-        <GearComponent className={styles.illustration} />
+        <img src="./manasva_headshot.png" alt="Illustration" className={styles.illustration} />
       </div>
     </div>
   );

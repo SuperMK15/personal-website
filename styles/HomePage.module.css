@@ -9,7 +9,7 @@
 }
 
 .background {
-  font-size: 5rem;
+  font-size: 3.2rem;
   font-family: 'Montserrat';
   line-height: 1.1;
   color: var(--bg-text);
@@ -102,8 +102,10 @@
 }
 
 .illustration {
+  border: 2px solid var(--accent-color);
+  border-radius: 10px;
   height: 500px;
-  width: 460px;
+  width: 500px;
 }
 
 /* 4K Screens */
@@ -128,8 +130,8 @@
     font-size: 2rem;
   }
   .illustration {
-    height: 900px;
-    width: 700px;
+    height: 500px;
+    width: 500px;
   }
 }
 
@@ -157,8 +159,8 @@
     position: absolute;
     bottom: -50px;
     right: 0;
-    height: 700px;
-    width: 600px;
+    height: 500px;
+    width: 500px;
   }
 }
 
@@ -175,8 +177,8 @@
     font-size: 1.5rem;
   }
   .illustration {
-    height: 550px;
-    width: 420px;
+    height: 500px;
+    width: 500px;
     bottom: -50px;
   }
 }
@@ -209,11 +211,6 @@
     font-size: 1rem;
   }
   .illustration {
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    width: 75vw;
-    height: 50vh;
-    z-index: 1;
+    display: none;
   }
 }
