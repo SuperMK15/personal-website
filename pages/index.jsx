@@ -11,7 +11,7 @@ export default function HomePage() {
       <div className={styles.foreground}>
         <div className={styles.content}>
           <h1 className={styles.name}>Manasva Katyal</h1>
-          <h6 className={styles.bio}>UWaterloo CS Student, Class of 2028</h6>
+          <h6 className={styles.bio}>UWaterloo CS, Class of 2028</h6>
           <Link href="/terminal">
             <button className={styles.button}>Open Terminal</button>
           </Link>
