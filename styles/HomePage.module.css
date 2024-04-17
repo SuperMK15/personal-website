@@ -33,7 +33,7 @@
 }
 
 .bio {
-  width: auto;
+  width: fit-content;
   color: #eee;
   font-size: 1.5rem;
   font-weight: 300;
