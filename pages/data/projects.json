@@ -65,6 +65,16 @@
     "source_code": "https://github.com/SuperMK15/SFML-LoZ-Game/"
   },
   {
+    "id": 13,
+    "name": "AI ATC",
+    "terminal_name": "ai-atc",
+    "image": "/ai-atc.png",
+    "description": "A web application that uses the Cohere LLM to simulate an air traffic controller, providing real-time responses to user input. Support full audio transcription and text-to-speech capabilities.",
+    "tags": ["react", "tailwind", "cohere", "typescript", "web-speech-api"],
+    "source_code": "https://github.com/SuperMK15/AI-ATC",
+    "demo": "https://ai-atc.vercel.app/"
+  },
+  {
     "id": 7,
     "name": "Aviation Weather App",
     "terminal_name": "aviation-weather",
