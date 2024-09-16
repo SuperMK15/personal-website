@@ -1,62 +1,69 @@
 [
     {
         "id": 1,
-        "title": "3Cycle Automations Engineer",
-        "terminal_name": "3cycle",
-        "date": "NOVEMBER 2023 - PRESENT",
-        "description": "Work on embedded systems for automation of shredding and filament processing to develop a sustainable circular ecosystem for 3D printing waste recycling."
+        "title": "Nokia AI/ML & Automation Intern",
+        "terminal_name": "nokia",
+        "date": "SEPTEMBER 2024 - DECEMBER 2024",
+        "description": "Developed autonomous applications based on the OODA control loop for next-gen telco networks focusing on UPF congestion and network slice management to approach an L5 autonomous network."
     },
     {
         "id": 2,
-        "title": "UWARG Embedded Flight Software Team Member",
-        "terminal_name": "uwarg",
-        "date": "SEPTEMBER 2023 - PRESENT",
-        "description": "Member of the embedded flight software (EFS) team in the University of Waterloo Aerial Robotics Group. Been working on the firmware for the flight controller of the aerial vehicle."
+        "title": "3Cycle Embedded Developer",
+        "terminal_name": "3cycle",
+        "date": "NOVEMBER 2023 - PRESENT",
+        "description": "Worked on embedded systems for automation of shredding and filament processing to develop a sustainable circular ecosystem for 3D printing waste recycling."
     },
     {
         "id": 3,
-        "title": "UW CSC Events Coordinator",
-        "terminal_name": "uw_csc",
+        "title": "UWARG Embedded Flight Software Team Member",
+        "terminal_name": "uwarg",
         "date": "SEPTEMBER 2023 - PRESENT",
-        "description": "Plan and execute large-scale events that benefit students interested in CS, ranging from social events to fun competitions to professional networking."
+        "description": "Member of the embedded flight software (EFS) team in the University of Waterloo Aerial Robotics Group. Worked on firmware and embedded systems on the autonmous UAVs for the AEAC competition."
     },
     {
         "id": 4,
-        "title": "Familiarization Pilot & Flight Theory Instructor",
-        "terminal_name": "famil_pilot",
-        "date": "SEPTEMBER 2022 - PRESENT",
-        "description": "Volunteer as a famil pilot on a weekly basis at a designated CFS (Cadet Flying Site) in Wingham. Also teach as a flight theory instructor at 540 Sqn on a weekly basis."
+        "title": "UW CSC Events Coordinator",
+        "terminal_name": "uw_csc",
+        "date": "SEPTEMBER 2023 - PRESENT",
+        "description": "Planed and executed large-scale events that benefitted students interested in CS, ranging from social events to fun competitions to professional networking."
     },
     {
         "id": 5,
-        "title": "OCMC Technology Executive",
-        "terminal_name": "ocmc_tech_exec",
-        "date": "MAY 2023 - PRESENT",
-        "description": "Work on the technology team in the Ontario Competitive Mathematics Committee as a full stack developer to create and maintain the OCMC website, as well as perform other technology-related tasks."
+        "title": "Familiarization Pilot & Flight Theory Instructor",
+        "terminal_name": "famil_pilot",
+        "date": "SEPTEMBER 2022 - PRESENT",
+        "description": "Volunteered as a famil pilot on a weekly basis at a designated CFS (Cadet Flying Site) in Wingham. Also taught as a flight theory instructor at 540 Sqn on a weekly basis."
     },
     {
         "id": 6,
-        "title": "Administration Warrant Officer",
-        "terminal_name": "540goldenhawks",
-        "date": "SEPTEMBER 2022 - AUGUST 2023",
-        "description": "Manage the administration of the 540 Golden Hawks squadron for over 250 cadets, through developing an automated system to track attendance, relevant training, and more using Google Sheets and Google Apps Script."
+        "title": "OCMC Technology Executive",
+        "terminal_name": "ocmc_tech_exec",
+        "date": "MAY 2023 - PRESENT",
+        "description": "Worked on the technology team in the Ontario Competitive Mathematics Committee as a full stack developer to create and maintain the OCMC website, as well as perform other technology-related tasks."
     },
     {
         "id": 7,
+        "title": "Administration Warrant Officer",
+        "terminal_name": "540goldenhawks",
+        "date": "SEPTEMBER 2022 - AUGUST 2023",
+        "description": "Managed the administration of the 540 Golden Hawks squadron for over 250 cadets, through developing an automated system to track attendance, relevant training, and more using Google Sheets and Google Apps Script."
+    },
+    {
+        "id": 8,
         "title": "White Oaks CS Club President",
         "terminal_name": "wosscs_club",
         "date": "SEPTEMBER 2021 - JUNE 2023",
         "description": "Led the White Oaks CS Club to organize events and workshops for students interested in computer science, as well as to prepare them to compete in various competitions including the CCC, USACO AND ECOO."
     },
     {
-        "id": 8,
+        "id": 9,
         "title": "HDSB Hacks Co-Founder & Co-President",
         "terminal_name": "hdsbhacks",
         "date": "OCTOBER 2022 - MARCH    2023",
         "description": "Co-founded HDSB Hacks, a student-led organization that ran the first hackathon across the Halton District School Board, with official backing. Over 250 participants attended the event, and over 50 final projects were submitted."
     },
     {
-        "id": 9,
+        "id": 10,
         "title": "White Oaks DECA Finance Trainer",
         "terminal_name": "woss_deca",
         "date": "SEPTEMBER 2021 - JUNE 2023",
