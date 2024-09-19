@@ -1,5 +1,11 @@
 [
     {
+        "id": 12,
+        "name": "Rust Essential Training",
+        "terminal_name": "rust",
+        "credential_link": "https://www.linkedin.com/learning/certificates/9ff46b6dbfe97562a069bdf5ef111fc78c3f51d32e60458ea0ff5693299f501e?trk=share_certificate"
+    },
+    {
         "id": 11,
         "name": "Kubernetes",
         "terminal_name": "kubernetes",
