@@ -10,22 +10,22 @@
         "id": 2,
         "title": "3Cycle Embedded Developer",
         "terminal_name": "3cycle",
-        "date": "NOVEMBER 2023 - PRESENT",
+        "date": "OCTOBER 2023 - PRESENT",
         "description": "Worked on embedded systems for automation of shredding and filament processing to develop a sustainable circular ecosystem for 3D printing waste recycling."
     },
     {
         "id": 3,
-        "title": "UWARG Embedded Flight Software Team Member",
+        "title": "UWARG Embedded Flight Software PM",
         "terminal_name": "uwarg",
         "date": "SEPTEMBER 2023 - PRESENT",
         "description": "Member of the embedded flight software (EFS) team in the University of Waterloo Aerial Robotics Group. Worked on firmware and embedded systems on the autonmous UAVs for the AEAC competition."
     },
     {
         "id": 4,
-        "title": "UW CSC Events Coordinator",
-        "terminal_name": "uw_csc",
-        "date": "SEPTEMBER 2023 - PRESENT",
-        "description": "Planed and executed large-scale events that benefitted students interested in CS, ranging from social events to fun competitions to professional networking."
+        "title": "OCMC Chief Technology Officer",
+        "terminal_name": "ocmc_cto",
+        "date": "MAY 2023 - PRESENT",
+        "description": "Worked on the technology team in the Ontario Competitive Mathematics Committee as a full stack developer to create and maintain the OCMC website, as well as perform other technology-related tasks."
     },
     {
         "id": 5,
@@ -36,10 +36,10 @@
     },
     {
         "id": 6,
-        "title": "OCMC Technology Executive",
-        "terminal_name": "ocmc_tech_exec",
-        "date": "MAY 2023 - PRESENT",
-        "description": "Worked on the technology team in the Ontario Competitive Mathematics Committee as a full stack developer to create and maintain the OCMC website, as well as perform other technology-related tasks."
+        "title": "UW CSC Events Coordinator",
+        "terminal_name": "uw_csc",
+        "date": "SEPTEMBER 2023 - AUGUST 2024",
+        "description": "Planed and executed large-scale events that benefitted students interested in CS, ranging from social events to fun competitions to professional networking."
     },
     {
         "id": 7,
