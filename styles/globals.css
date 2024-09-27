@@ -211,3 +211,11 @@
 .xampp:hover {
   background: rgba(255, 102, 0, 0.2);
 }
+
+.google-maps-api {
+  border: 2px solid rgb(0, 153, 0); /* Green shade for Google Maps API */
+}
+
+.google-maps-api:hover {
+  background: rgba(0, 153, 0, 0.2);
+}

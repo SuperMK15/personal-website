@@ -27,6 +27,26 @@
     "pdf": "https://drive.google.com/file/d/1Oj0iTWaKzmvsy4kuwETxS2l28agQdVGA/view?usp=sharing"
   },
   {
+    "id": 14,
+    "name": "WATIsGrass: UW Tunnels",
+    "terminal_name": "watisgrass",
+    "image": "/watisgrass.png",
+    "description": "A web application that uses the Google Maps API and Dijkstra's algorithm to help students to find the shortest path between two buildings on the University of Waterloo campus, using the tunnel system.",
+    "tags": ["react", "tailwind", "typescript", "google-maps-api"],
+    "source_code": "https://github.com/rickyqin005/WATIsGrass",
+    "demo": "https://watisgrass.vercel.app/"
+  },
+  {
+    "id": 13,
+    "name": "AI ATC",
+    "terminal_name": "ai-atc",
+    "image": "/ai-atc.png",
+    "description": "A web application that uses the Cohere LLM to simulate an air traffic controller, providing real-time responses to user input. Support full audio transcription and text-to-speech capabilities.",
+    "tags": ["react", "tailwind", "cohere", "typescript", "web-speech-api"],
+    "source_code": "https://github.com/SuperMK15/AI-ATC",
+    "demo": "https://ai-atc.vercel.app/"
+  },
+  {
     "id": 4,
     "name": "Stud.AI - AI Powered Study Tool",
     "terminal_name": "studai",
@@ -63,16 +83,6 @@
     "description": "A 2D game made using C++ and SFML in an object-oriented fashion, inspired by the Legend of Zelda series. Features 4 levels, complete with music and sound effects.",
     "tags": ["sfml", "cpp"],
     "source_code": "https://github.com/SuperMK15/SFML-LoZ-Game/"
-  },
-  {
-    "id": 13,
-    "name": "AI ATC",
-    "terminal_name": "ai-atc",
-    "image": "/ai-atc.png",
-    "description": "A web application that uses the Cohere LLM to simulate an air traffic controller, providing real-time responses to user input. Support full audio transcription and text-to-speech capabilities.",
-    "tags": ["react", "tailwind", "cohere", "typescript", "web-speech-api"],
-    "source_code": "https://github.com/SuperMK15/AI-ATC",
-    "demo": "https://ai-atc.vercel.app/"
   },
   {
     "id": 7,
