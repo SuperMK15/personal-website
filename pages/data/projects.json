@@ -33,7 +33,7 @@
     "image": "/watisgrass.png",
     "description": "A web application that uses the Google Maps API and Dijkstra's algorithm to help students to find the shortest path between two buildings on the University of Waterloo campus, using the tunnel system.",
     "tags": ["react", "tailwind", "typescript", "google-maps-api"],
-    "source_code": "https://github.com/rickyqin005/WATIsGrass",
+    "source_code": "https://github.com/SuperMK15/WATIsGrass",
     "demo": "https://watisgrass.vercel.app/"
   },
   {
