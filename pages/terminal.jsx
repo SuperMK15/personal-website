@@ -158,7 +158,7 @@ const TerminalPage = () => {
                 if (currentDirectory !== "") return <p>{"File " + file + " not found."}</p>;
                 else return (
                     <>
-                        Hello, my name is Manasva! I am currently a first-year student at the Univerity of Waterloo, pursuing a Computer Science degree with a Digital Hardware specialization. I'm also a recipient of the Schulich Leader Scholarship, the most prestigious STEM scholarship for Canadian undergraduate students!
+                        Hello, my name is Manasva! I am currently a second-year student at the Univerity of Waterloo, pursuing a Computer Science degree with a Digital Hardware specialization. I'm also a recipient of the Schulich Leader Scholarship, the most prestigious STEM scholarship for Canadian undergraduate students!
                         <br />
                     </>
                 );
