@@ -80,7 +80,7 @@
     "name": "SpriteSheet Maker",
     "terminal_name": "spritesheet-maker",
     "image": "/spritesheet-maker.png",
-    "description": "A web application that allows users to upload multiple images, arrange them and generate a downloadable spritesheet from them usable in a video game engine. The tool provides functionality to adjust image sizing and padding.",
+    "description": "A web application that allows users to upload multiple images, arrange them and generate a downloadable spritesheet usable in a video game engine. The tool provides functionality to adjust image sizing and padding.",
     "tags": ["react", "tailwind", "python", "flask"],
     "source_code": "https://github.com/SuperMK15/SpritesheetMaker",
     "demo": "https://spritesheetmaker.onrender.com/"
