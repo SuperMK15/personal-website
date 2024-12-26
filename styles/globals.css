@@ -124,6 +124,14 @@
   background: rgba(128, 0, 128, 0.25);
 }
 
+.flask {
+  border: 2px solid rgb(100, 0, 100);
+}
+
+.flask:hover {
+  background: rgba(100, 0, 100, 0.25);
+}
+
 .latex {
   border: 2px solid rgb(240, 240, 240);
 }

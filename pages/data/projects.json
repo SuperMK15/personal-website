@@ -76,6 +76,16 @@
     "source_code": "https://github.com/SuperMK15/hardware-projects/"
   },
   {
+    "id": 15,
+    "name": "SpriteSheet Maker",
+    "terminal_name": "spritesheet-maker",
+    "image": "/spritesheet-maker.png",
+    "description": "A web application that allows users to upload multiple images and generate a spritesheet from them. The tool also provides the ability to download the spritesheet and the corresponding CSS file.",
+    "tags": ["react", "tailwind", "python", "flask"],
+    "source_code": "https://github.com/SuperMK15/SpritesheetMaker",
+    "demo": "https://spritesheetmaker.onrender.com/"
+  },
+  {
     "id": 6,
     "name": "SFML 2D Legend of Zelda Style Game",
     "terminal_name": "loz-game",
