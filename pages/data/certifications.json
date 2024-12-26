@@ -1,74 +1,92 @@
 [
     {
-        "id": 12,
+        "id": 1,
+        "name": "RISC-V Architecture",
+        "terminal_name": "risc_v",
+        "credential_link": "https://www.linkedin.com/learning/certificates/3c9fcefad92a6340b8abe18438fac4608ddf4df82a1ce7589056ccbfe472eeba?trk=share_certificate"
+    },
+    {
+        "id": 2,
         "name": "Rust Essential Training",
         "terminal_name": "rust",
         "credential_link": "https://www.linkedin.com/learning/certificates/9ff46b6dbfe97562a069bdf5ef111fc78c3f51d32e60458ea0ff5693299f501e?trk=share_certificate"
     },
     {
-        "id": 11,
+        "id": 3,
         "name": "Kubernetes",
         "terminal_name": "kubernetes",
         "credential_link": "https://www.linkedin.com/learning/certificates/6cd901c88eb3112a5021944bb575f1a24cd21346f6acc47981b166c5640a2057"
     },
     {
-        "id": 10,
+        "id": 4,
         "name": "Docker",
         "terminal_name": "docker",
         "credential_link": "https://www.linkedin.com/learning/certificates/e24bb5d6d1902c8ce7a4109c83780d69399667e1b6c1b0a309b2edadab1e4edb"
     },
     {
-        "id": 1,
-        "name": "Deep Learning Foundations",
-        "terminal_name": "deep_learning",
-        "credential_link": "https://www.linkedin.com/learning/certificates/10ceccb4c5afb9b6ad180880b96c671dd16d1d33d57b84f1f840b723676daace"
-    },
-    {
-        "id": 2,
+        "id": 5,
         "name": "Neural Networks Foundations",
         "terminal_name": "neural_networks",
         "credential_link": "https://www.linkedin.com/learning/certificates/02278e8106e8ce39f7090828cd6feab8e551b7b08731d3010f831ff4bf3a8d9e"
     },
     {
-        "id": 3,
+        "id": 6,
+        "name": "Deep Learning Foundations",
+        "terminal_name": "deep_learning",
+        "credential_link": "https://www.linkedin.com/learning/certificates/10ceccb4c5afb9b6ad180880b96c671dd16d1d33d57b84f1f840b723676daace"
+    },
+    {
+        "id": 7,
         "name": "Convolutional Neural Networks (CNNs)",
         "terminal_name": "cnns",
         "credential_link": "https://www.linkedin.com/learning/certificates/c66ee2bb2af0b7a21dd6e92bb2e5249b31b3136b09f8602ea144604fd8721e7d"
     },
     {
-        "id": 4,
+        "id": 8,
         "name": "Recurrent Neural Networks (RNNs)",
         "terminal_name": "rnns",
         "credential_link": "https://www.linkedin.com/learning/certificates/23ccf2c96f248c31189225198b900af2eb90e13b6a31b128e5b545aa448d7924"
     },
     {
-        "id": 5,
+        "id": 9,
+        "name": "Generative Adversarial Networks (GANs)",
+        "terminal_name": "gans",
+        "credential_link": "https://www.linkedin.com/learning/certificates/d405c06cf7314984636e0a43ed46cdbc278ed93e29aa31eba17395aa9451c037?trk=share_certificate"
+    },
+    {
+        "id": 10,
+        "name": "Neural Networks in C++",
+        "terminal_name": "neural_networks_cpp",
+        "credential_link": "https://www.linkedin.com/learning/certificates/037d16b0fef5b6f6ae2f8f644b517624590246cb71fce5a73dabe49b1cef8e60?trk=share_certificate"
+    },
+    {
+        "id": 11,
+        "name": "C Programming for Embedded Applications",
+        "terminal_name": "embedded_c",
+        "credential_link": "https://www.linkedin.com/learning/certificates/f019272db9d8af8d4217cc35e1785746fd88a9928b28ba6f8f116f7e9b1779fa"
+    },
+    {
+        "id": 12,
         "name": "Arduino: Foundations",
         "terminal_name": "arduino_foundations",
         "credential_link": "https://www.linkedin.com/learning/certificates/bae11d99ea2b0811009faf3db0f9b44fd3b4f110e0383a159e818160fdc0c5e5"
     },
     {
-        "id": 6,
+        "id": 13,
         "name": "Arduino: Interfacing with Hardware",
         "terminal_name": "arduino_hardware",
         "credential_link": "https://www.linkedin.com/learning/certificates/7a98d6e0967efc372360df20acd98b522088142b4fa2f1aa81232bc64f82f63d"
     },
     {
-        "id": 7,
+        "id": 14,
         "name": "Arduino: Interfacing with Analog Devices",
         "terminal_name": "arduino_analog",
         "credential_link": "https://www.linkedin.com/learning/certificates/a626825db797680be1f3876ac7afb30bc8651287767cc93f66775addb71cfb01"
     },
     {
-        "id": 8,
+        "id": 15,
         "name": "Arduino: Pulse Width Modulation",
         "terminal_name": "arduino_pwm",
         "credential_link": "https://www.linkedin.com/learning/certificates/7f07497da6864f04729d8f9af8535933bf0e818b017ff16c308a3a573b865e7d"
-    },
-    {
-        "id": 9,
-        "name": "C Programming for Embedded Applications",
-        "terminal_name": "embedded_c",
-        "credential_link": "https://www.linkedin.com/learning/certificates/f019272db9d8af8d4217cc35e1785746fd88a9928b28ba6f8f116f7e9b1779fa"
     }
 ]
