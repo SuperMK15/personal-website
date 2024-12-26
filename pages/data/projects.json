@@ -27,7 +27,7 @@
     "pdf": "https://drive.google.com/file/d/1Oj0iTWaKzmvsy4kuwETxS2l28agQdVGA/view?usp=sharing"
   },
   {
-    "id": 14,
+    "id": 4,
     "name": "WATIsGrass: UW Tunnels",
     "terminal_name": "watisgrass",
     "image": "/watisgrass.png",
@@ -37,7 +37,7 @@
     "demo": "https://watisgrass.vercel.app/"
   },
   {
-    "id": 13,
+    "id": 5,
     "name": "AI ATC",
     "terminal_name": "ai-atc",
     "image": "/ai-atc.png",
@@ -47,7 +47,7 @@
     "demo": "https://ai-atc.vercel.app/"
   },
   {
-    "id": 4,
+    "id": 6,
     "name": "Stud.AI - AI Powered Study Tool",
     "terminal_name": "studai",
     "image": "/studai.png",
@@ -57,7 +57,7 @@
     "demo": "https://studai-8en7.onrender.com/"
   },
   {
-    "id": 12,
+    "id": 7,
     "name": "WorkSheeps - AI Powered Markbook",
     "terminal_name": "worksheeps",
     "image": "/worksheeps.png",
@@ -67,7 +67,7 @@
     "demo": "https://worksheeps.tech/"
   },
   {
-    "id": 5,
+    "id": 8,
     "name": "Arduino Projects",
     "terminal_name": "arduino-projects",
     "image": "/arduino.png",
@@ -76,7 +76,7 @@
     "source_code": "https://github.com/SuperMK15/hardware-projects/"
   },
   {
-    "id": 15,
+    "id": 9,
     "name": "SpriteSheet Maker",
     "terminal_name": "spritesheet-maker",
     "image": "/spritesheet-maker.png",
@@ -86,7 +86,7 @@
     "demo": "https://spritesheetmaker.onrender.com/"
   },
   {
-    "id": 6,
+    "id": 10,
     "name": "SFML 2D Legend of Zelda Style Game",
     "terminal_name": "loz-game",
     "image": "/loz.png",
@@ -95,7 +95,7 @@
     "source_code": "https://github.com/SuperMK15/SFML-LoZ-Game/"
   },
   {
-    "id": 7,
+    "id": 11,
     "name": "Aviation Weather App",
     "terminal_name": "aviation-weather",
     "image": "/avia.png",
@@ -105,7 +105,7 @@
     "demo": "https://aviation-weather-app.onrender.com/"
   },
   {
-    "id": 8,
+    "id": 12,
     "name": "UWaterloo CSC Trivia Night Application",
     "terminal_name": "csc-trivia",
     "image": "/csc-trivia.png",
@@ -115,7 +115,7 @@
     "demo": "https://csc-trivia-app.onrender.com/"
   },
   {
-    "id": 9,
+    "id": 13,
     "name": "Canada Chess Parent & Teacher Portal",
     "terminal_name": "chess-portal",
     "image": "/canadachess.png",
@@ -124,7 +124,7 @@
     "demo": "https://client.canadachess.ca/"
   },
   {
-    "id": 10,
+    "id": 14,
     "name": "Food4Kids Inventory Management System",
     "terminal_name": "food4kids",
     "image": "/food4kids.png",
@@ -133,7 +133,7 @@
     "source_code": "https://github.com/SuperMK15/Food4Kids/"
   },
   {
-    "id": 11,
+    "id": 15,
     "name": "IB Results Checker",
     "terminal_name": "ib-results",
     "image": "/selenium.png",
