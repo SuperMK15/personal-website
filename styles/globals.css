@@ -164,6 +164,22 @@
   background: rgba(150, 0, 255, 0.2);
 }
 
+.streamlit {
+  border: 2px solid rgb(0, 255, 255);
+}
+
+.streamlit:hover {
+  background: rgba(0, 255, 255, 0.2);
+}
+
+.github-api {
+  border: 2px solid rgb(128, 128, 128);
+}
+
+.github-api:hover {
+  background: rgba(128, 128, 128, 0.2);
+}
+
 .cohere, .checkwx {
   border: 2px solid rgb(255, 215, 0);
 }
