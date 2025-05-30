@@ -1,69 +1,76 @@
 [
     {
         "id": 1,
+        "title": "BETA Embedded Software Intern",
+        "terminal_name": "beta",
+        "date": "MAY 2025 - AUGUST 2025",
+        "description": "Worked on the embedded software team at BETA Technologies, focusing on developing and testing flight software for electric vertical takeoff and landing (eVTOL) aircraft."
+    },
+    {
+        "id": 2,
         "title": "Nokia AI/ML & Automation Intern",
         "terminal_name": "nokia",
         "date": "SEPTEMBER 2024 - DECEMBER 2024",
         "description": "Developed autonomous applications based on the OODA control loop for next-gen telco networks focusing on UPF congestion and network slice management to approach an L5 autonomous network."
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "3Cycle Embedded Developer",
         "terminal_name": "3cycle",
         "date": "OCTOBER 2023 - PRESENT",
         "description": "Worked on embedded systems for automation of shredding and filament processing to develop a sustainable circular ecosystem for 3D printing waste recycling."
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "UWARG Embedded Flight Software PM",
         "terminal_name": "uwarg",
         "date": "SEPTEMBER 2023 - PRESENT",
         "description": "Member of the embedded flight software (EFS) team in the University of Waterloo Aerial Robotics Group. Worked on firmware and embedded systems on the autonmous UAVs for the AEAC competition."
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "OCMC Chief Technology Officer",
         "terminal_name": "ocmc_cto",
         "date": "MAY 2023 - PRESENT",
         "description": "Led the technology team for the Ontario Competitive Mathematics Committee, developing the user portal from the ground up and managing the technology stack for the organization."
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Familiarization Pilot & Flight Theory Instructor",
         "terminal_name": "famil_pilot",
         "date": "SEPTEMBER 2022 - PRESENT",
         "description": "Volunteered as a famil pilot on a weekly basis at a designated CFS (Cadet Flying Site) in Wingham. Also taught as a flight theory instructor at 540 Sqn on a weekly basis."
     },
     {
-        "id": 6,
+        "id": 7,
         "title": "UW CSC Events Coordinator",
         "terminal_name": "uw_csc",
         "date": "SEPTEMBER 2023 - AUGUST 2024",
         "description": "Planed and executed large-scale events that benefitted students interested in CS, ranging from social events to fun competitions to professional networking."
     },
     {
-        "id": 7,
+        "id": 8,
         "title": "Administration Warrant Officer",
         "terminal_name": "540goldenhawks",
         "date": "SEPTEMBER 2022 - AUGUST 2023",
         "description": "Managed the administration of the 540 Golden Hawks squadron for over 250 cadets, through developing an automated system to track attendance, relevant training, and more using Google Sheets and Google Apps Script."
     },
     {
-        "id": 8,
+        "id": 9,
         "title": "White Oaks CS Club President",
         "terminal_name": "wosscs_club",
         "date": "SEPTEMBER 2021 - JUNE 2023",
         "description": "Led the White Oaks CS Club to organize events and workshops for students interested in computer science, as well as to prepare them to compete in various competitions including the CCC, USACO AND ECOO."
     },
     {
-        "id": 9,
+        "id": 10,
         "title": "HDSB Hacks Co-Founder & Co-President",
         "terminal_name": "hdsbhacks",
         "date": "OCTOBER 2022 - MARCH    2023",
         "description": "Co-founded HDSB Hacks, a student-led organization that ran the first hackathon across the Halton District School Board, with official backing. Over 250 participants attended the event, and over 50 final projects were submitted."
     },
     {
-        "id": 10,
+        "id": 11,
         "title": "White Oaks DECA Finance Trainer",
         "terminal_name": "woss_deca",
         "date": "SEPTEMBER 2021 - JUNE 2023",
