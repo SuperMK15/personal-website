@@ -15,17 +15,17 @@
     },
     {
         "id": 3,
+        "title": "UWARG Embedded Flight Software Lead",
+        "terminal_name": "uwarg",
+        "date": "SEPTEMBER 2023 - PRESENT",
+        "description": "Lead of the embedded flight software (EFS) team in the University of Waterloo Aerial Robotics Group. Worked on development of firmware and embedded systems for autonomous UAVs."
+    },
+    {
+        "id": 4,
         "title": "3Cycle Embedded Developer",
         "terminal_name": "3cycle",
         "date": "OCTOBER 2023 - PRESENT",
         "description": "Worked on embedded systems for automation of shredding and filament processing to develop a sustainable circular ecosystem for 3D printing waste recycling."
-    },
-    {
-        "id": 4,
-        "title": "UWARG Embedded Flight Software PM",
-        "terminal_name": "uwarg",
-        "date": "SEPTEMBER 2023 - PRESENT",
-        "description": "Member of the embedded flight software (EFS) team in the University of Waterloo Aerial Robotics Group. Worked on firmware and embedded systems on the autonmous UAVs for the AEAC competition."
     },
     {
         "id": 5,
