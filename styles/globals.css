@@ -243,3 +243,38 @@
 .google-maps-api:hover {
   background: rgba(0, 153, 0, 0.2);
 }
+
+.freertos {
+  border: 2px solid rgb(0, 153, 76); /* Green from FreeRTOS logo */
+}
+.freertos:hover {
+  background: rgba(0, 153, 76, 0.2);
+}
+
+.stm32 {
+  border: 2px solid rgb(0, 102, 204); /* STM blue */
+}
+.stm32:hover {
+  background: rgba(0, 102, 204, 0.2);
+}
+
+.cmsis {
+  border: 2px solid rgb(0, 204, 255); /* Light cyan (CMSIS branding accent) */
+}
+.cmsis:hover {
+  background: rgba(0, 204, 255, 0.2);
+}
+
+.altium {
+  border: 2px solid rgb(255, 191, 0); /* Gold accent from Altium logo */
+}
+.altium:hover {
+  background: rgba(255, 191, 0, 0.2);
+}
+
+.fusion-360 {
+  border: 2px solid rgb(255, 136, 0); /* Autodesk Fusion orange */
+}
+.fusion-360:hover {
+  background: rgba(255, 136, 0, 0.2);
+}

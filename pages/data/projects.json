@@ -1,12 +1,13 @@
 [
   {
     "id": 1,
-    "name": "OCMC Participant Portal Application",
-    "terminal_name": "ocmc-portal",
-    "image": "/ocmc.png",
-    "description": "MERN-stack web app made for the Ontario Competitive Mathematics Committee, which administers math contests primarily across Ontario. Allows their 300+ participants to view news, register for contests and track their scores.",
-    "tags": ["next", "node", "express", "mongodb", "tailwind", "redux"],
-    "demo": "https://www.ontariocmc.ca/"
+    "name": "UWARG ZeroPilot",
+    "terminal_name": "zeropilot",
+    "image": "/zeropilot.png",
+    "description": "A FreeRTOS-based STM32 flight controller in C++ enabling real-time coordination of telemetry, sensor fusion, and flight control subsystems, on a custom PCB for autonomous UAVs.",
+    "tags": ["cpp", "stm32", "freertos", "cmsis", "altium", "fusion-360"],
+    "source_code": "https://github.com/UWARG/efs-zeropilot-3.5b",
+    "demo": "https://www.youtube.com/watch?v=xD9T_sf2wwk"
   },
   {
     "id": 2,
@@ -58,6 +59,15 @@
   },
   {
     "id": 7,
+    "name": "OCMC Participant Portal Application",
+    "terminal_name": "ocmc-portal",
+    "image": "/ocmc.png",
+    "description": "MERN-stack web app made for the Ontario Competitive Mathematics Committee, which administers math contests primarily across Ontario. Allows their 300+ participants to view news, register for contests and track their scores.",
+    "tags": ["next", "node", "express", "mongodb", "tailwind", "redux"],
+    "demo": "https://www.ontariocmc.ca/"
+  },
+  {
+    "id": 8,
     "name": "Stud.AI - AI Powered Study Tool",
     "terminal_name": "studai",
     "image": "/studai.png",
@@ -67,7 +77,7 @@
     "demo": "https://studai-8en7.onrender.com/"
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "WorkSheeps - AI Powered Markbook",
     "terminal_name": "worksheeps",
     "image": "/worksheeps.png",
@@ -77,7 +87,7 @@
     "demo": "https://worksheeps.tech/"
   },
   {
-    "id": 9,
+    "id": 10,
     "name": "Arduino Projects",
     "terminal_name": "arduino-projects",
     "image": "/arduino.png",
@@ -86,7 +96,7 @@
     "source_code": "https://github.com/SuperMK15/hardware-projects/"
   },
   {
-    "id": 10,
+    "id": 11,
     "name": "SpriteSheet Maker",
     "terminal_name": "spritesheet-maker",
     "image": "/spritesheet-maker.png",
@@ -96,7 +106,7 @@
     "demo": "https://spritesheetmaker.onrender.com/"
   },
   {
-    "id": 11,
+    "id": 12,
     "name": "SFML 2D Legend of Zelda Style Game",
     "terminal_name": "loz-game",
     "image": "/loz.png",
@@ -105,7 +115,7 @@
     "source_code": "https://github.com/SuperMK15/SFML-LoZ-Game/"
   },
   {
-    "id": 12,
+    "id": 13,
     "name": "Aviation Weather App",
     "terminal_name": "aviation-weather",
     "image": "/avia.png",
@@ -115,7 +125,7 @@
     "demo": "https://aviation-weather-app.onrender.com/"
   },
   {
-    "id": 13,
+    "id": 14,
     "name": "UWaterloo CSC Trivia Night Application",
     "terminal_name": "csc-trivia",
     "image": "/csc-trivia.png",
@@ -125,7 +135,7 @@
     "demo": "https://csc-trivia-app.onrender.com/"
   },
   {
-    "id": 14,
+    "id": 15,
     "name": "Canada Chess Parent & Teacher Portal",
     "terminal_name": "chess-portal",
     "image": "/canadachess.png",
@@ -134,7 +144,7 @@
     "demo": "https://client.canadachess.ca/"
   },
   {
-    "id": 15,
+    "id": 16,
     "name": "Food4Kids Inventory Management System",
     "terminal_name": "food4kids",
     "image": "/food4kids.png",
@@ -143,7 +153,7 @@
     "source_code": "https://github.com/SuperMK15/Food4Kids/"
   },
   {
-    "id": 16,
+    "id": 17,
     "name": "IB Results Checker",
     "terminal_name": "ib-results",
     "image": "/selenium.png",
