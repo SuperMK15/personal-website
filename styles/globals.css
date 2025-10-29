@@ -278,3 +278,38 @@
 .fusion-360:hover {
   background: rgba(255, 136, 0, 0.2);
 }
+
+.tcp {
+  border: 2px solid rgb(0, 180, 255);
+}
+.tcp:hover {
+  background: rgba(0, 180, 255, 0.2);
+}
+
+.cv {
+  border: 2px solid rgb(255, 105, 180);
+}
+.cv:hover {
+  background: rgba(255, 105, 180, 0.2);
+}
+
+.robotics {
+  border: 2px solid rgb(255, 140, 0);
+}
+.robotics:hover {
+  background: rgba(255, 140, 0, 0.2);
+}
+
+.inverse-kinematics {
+  border: 2px solid rgb(173, 216, 230);
+}
+.inverse-kinematics:hover {
+  background: rgba(173, 216, 230, 0.2);
+}
+
+.llms {
+  border: 2px solid rgb(186, 85, 211);
+}
+.llms:hover {
+  background: rgba(186, 85, 211, 0.2);
+}
