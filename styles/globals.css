@@ -313,3 +313,11 @@
 .llms:hover {
   background: rgba(186, 85, 211, 0.2);
 }
+
+.mcp {
+  border: 2px solid rgb(0, 255, 128); /* Bright green-cyan */
+}
+
+.mcp:hover {
+  background: rgba(0, 255, 128, 0.2);
+}
