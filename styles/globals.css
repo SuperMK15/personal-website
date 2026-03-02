@@ -321,3 +321,45 @@
 .mcp:hover {
   background: rgba(0, 255, 128, 0.2);
 }
+
+.controls {
+  border: 2px solid rgb(0, 200, 255); /* Control systems cyan */
+}
+.controls:hover {
+  background: rgba(0, 200, 255, 0.2);
+}
+
+.matplotlib {
+  border: 2px solid rgb(255, 99, 71); /* Soft red/orange (plot vibe) */
+}
+.matplotlib:hover {
+  background: rgba(255, 99, 71, 0.2);
+}
+
+.pid {
+  border: 2px solid rgb(255, 140, 0); /* Orange (control loops) */
+}
+.pid:hover {
+  background: rgba(255, 140, 0, 0.2);
+}
+
+.fft {
+  border: 2px solid rgb(138, 43, 226); /* Purple (frequency domain feel) */
+}
+.fft:hover {
+  background: rgba(138, 43, 226, 0.2);
+}
+
+.harmonic-notch {
+  border: 2px solid rgb(255, 0, 127); /* Bright magenta (resonance suppression) */
+}
+.harmonic-notch:hover {
+  background: rgba(255, 0, 127, 0.2);
+}
+
+.ardupilot {
+  border: 2px solid rgb(220, 20, 60); /* Deep red (ArduPilot red tone) */
+}
+.ardupilot:hover {
+  background: rgba(220, 20, 60, 0.2);
+}
